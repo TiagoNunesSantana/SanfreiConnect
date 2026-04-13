@@ -1,4 +1,4 @@
-﻿# Sanfrei WhatsApp Bot
+# Sanfrei WhatsApp Bot
 
 Bot de atendimento para WhatsApp com menu interativo e respostas por IA para a Sanfrei Tecnologia.
 
